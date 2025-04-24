@@ -1,0 +1,1 @@
+data class Equipment(val id: Int, val name: String, val status: Boolean)
